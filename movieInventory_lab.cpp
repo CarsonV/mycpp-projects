@@ -90,7 +90,6 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	avgValue = totalValue / numTotal;
 
-
 	// Display both the total value and average value
 
 	cout << "The total value of all dvds is: $" << totalValue << endl;
