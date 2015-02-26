@@ -1,6 +1,6 @@
 mycpp-projects
 ==============
 
-just messing around with github and some c++ i have learned
+github repository to store code for class
 
-I only ask that you do not try to mess with this project
+
